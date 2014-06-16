@@ -1,6 +1,6 @@
 Please checkout the 2013 branch for instructions for Kepler version of Eclipse.
 
-If you have just clone the repository. Following should do the trick:
+If you have just cloned the repository, following should do the trick:
 
 # git checkout -b 2013 origin/2013
 
